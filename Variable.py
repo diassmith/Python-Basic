@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 3º Variables
+# MAGIC Variables
 # MAGIC 
 # MAGIC Variables are containers for storing data values.
 # MAGIC 

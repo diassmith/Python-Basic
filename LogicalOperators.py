@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 13- Logical Operators
+# MAGIC Logical Operators
 # MAGIC 
 # MAGIC Logical operators are used to combine conditional statements:
 # MAGIC 

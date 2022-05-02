@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 4º Data Types
+# MAGIC Data Types
 # MAGIC 
 # MAGIC Lists - Are created using [ ] (Brackets)
 # MAGIC 

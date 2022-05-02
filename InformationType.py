@@ -1,6 +1,7 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 6º Information Type
+# MAGIC Information Type
+# MAGIC 
 # MAGIC In programming, the data type is an important concept. Variables can store data of different types, and different types can do different things. Python has the following built-in data types by default, in these categories:
 # MAGIC     
 # MAGIC Text Type: str

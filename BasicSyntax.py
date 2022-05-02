@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 1. - Basic Synax
+# MAGIC Basic Synax
 # MAGIC 
 # MAGIC We can use ' ' (single quotes)
 # MAGIC 

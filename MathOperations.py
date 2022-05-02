@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 2 . - Mathematical operators
+# MAGIC Mathematical operators
 # MAGIC Operators are used to perform operations on variables and values:
 # MAGIC 
 # MAGIC Sum

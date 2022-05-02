@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 12- Comparison Operators
+# MAGIC Comparison Operators
 # MAGIC Comparison operators are used to compare two values:
 # MAGIC 
 # MAGIC '==' (Equals to )

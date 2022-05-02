@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC 10- String Manipulation
+# MAGIC String Manipulation
 # MAGIC 
 # MAGIC A data type widely used in everyday life are strings, or strings of characters (or sequences of characters). The string data type, or str as it is called in Python, has a number of useful operations associated with it. These operations make Python a very suitable language for text manipulation. Some commonly used functions:
 # MAGIC     

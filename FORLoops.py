@@ -32,6 +32,16 @@ for position, P in enumerate( List_Country ):
 
 # COMMAND ----------
 
+# For + Lista
+
+List_Country = ['Brasil', 'Spain', 'United Stade American', 'Portugal', 'Canada', 'França', 
+                'Grece', 'England'] 
+
+for Country in List_Country:
+  print( Country )
+
+# COMMAND ----------
+
 # for + LISTa + IF + RANGE
 List_Numeric = [ Numero for Numero in range(1, 100, 5) ]
 Store = []
@@ -45,3 +55,27 @@ print( Store )
 
 from pandas import DataFrame
 print( DataFrame(Armazenar) )
+
+# COMMAND ----------
+
+# For + List + Dictionary
+
+List = [ 'Brasil', 'Spain', 'United Stade American', 'Portugal', 'Canada' ]
+
+dictionary = {
+    'Brasil' : 'Real',
+    'Spain' : 'Euro',
+    'United Stade American' : 'Dollar',
+    'Portugal' : 'Euro',
+    'Canada' : 'Canadian dollar'
+    
+}
+
+for country in List:
+
+  if country == 'Brasil':
+    print( f'Moeda do {country} é { dictionary[country] }' )
+    print('Mooeda do', country, 'é', dictionary[country] )
+    print('Mooeda do ' + str (country) + ' é ' + str(dictionary[country] ) )
+  else:
+    pass
